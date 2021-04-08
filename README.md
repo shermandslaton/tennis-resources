@@ -2,8 +2,8 @@
 
 Here is the list of top tennis websites providing some useful resources for beginners, and even for experienced players. Do check, if you got more websites, share in the comments.
 
-https://www.atptour.com/en/
-http://www.tennisnow.com/
+https://www.atptour.com/en/ <br>
+http://www.tennisnow.com/ <br>
 https://www.wtatennis.com/
 http://www.tennisviewmag.com/
 https://www.tennis-x.com/
