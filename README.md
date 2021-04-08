@@ -4,15 +4,15 @@ Here is the list of top tennis websites providing some useful resources for begi
 
 https://www.atptour.com/en/ <br>
 http://www.tennisnow.com/ <br>
-https://www.wtatennis.com/
-http://www.tennisviewmag.com/
-https://www.tennis-x.com/
-https://rafaelnadalfans.com/
-https://ftw.usatoday.com/category/tennis
-https://www.standard.co.uk/sport/tennis
-https://supertennisracquet.com/
-https://www.sportsnet.ca/tennis/news/
-https://www.yardbarker.com/tennis
-https://tennistonic.com/
-https://www.tennislifemag.com/
-https://www.wearecollegetennis.com/
+https://www.wtatennis.com/ <br>
+http://www.tennisviewmag.com/ <br>
+https://www.tennis-x.com/ <br>
+https://rafaelnadalfans.com/ <br>
+https://ftw.usatoday.com/category/tennis <br>
+https://www.standard.co.uk/sport/tennis <br>
+https://supertennisracquet.com/ <br>
+https://www.sportsnet.ca/tennis/news/ <br>
+https://www.yardbarker.com/tennis <br> 
+https://tennistonic.com/ <br>
+https://www.tennislifemag.com/ <br>
+https://www.wearecollegetennis.com/ <br>
